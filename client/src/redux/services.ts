@@ -1,6 +1,6 @@
 import axios from "axios";
 
-axios.defaults.baseURL = "http://localhost:5000/api/v1";
+axios.defaults.baseURL = "https://song-app-mern1.onrender.com/api/v1";
 
 // get all songs with filter queries
 const getAllSongs = async () =>
