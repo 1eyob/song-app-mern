@@ -26,6 +26,7 @@
     "redux-saga": "^1.2.2",
     "reflexbox": "^4.0.6",
     "styled-components": "^5.3.8",
+    "vercel": "^28.16.15",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
